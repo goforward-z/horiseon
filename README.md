@@ -1,4 +1,4 @@
-1. HTML CSS Git Challenge: Code Refactor
+1.HTML CSS Git Challenge: Code Refactor
 
 2.Description:
 
@@ -6,6 +6,6 @@ This challenge is to refactor an existing webpage to make it accessible,Ensure t
 
 3.Result:
 
-The link of the deployed application: https://goforward-z.github.io/horiseon/
+The link to the deployed application: https://goforward-z.github.io/horiseon/
 
-The link of the GitHub repository: https://github.com/goforward-z/horiseon.git
+The link to the GitHub repository: https://github.com/goforward-z/horiseon.git
